@@ -1,4 +1,13 @@
-## Hi there 👋
+# JeeEun Kim
+
+### AI Researcher
+M.S. in Department of Artificial Intelligence Convergence, College of Software, Sungkyunkwan University (SKKU)
+
+### Research Interests
+- Multimodal Learning
+- Medical AI
+- AGI
+- Large World Models(LWM) & Agents
 
 <!--
 **rlawldms0430/rlawldms0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
