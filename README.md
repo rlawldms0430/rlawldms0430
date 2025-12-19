@@ -1,7 +1,7 @@
 # JeeEun Kim
 
 🚦AI Researcher
-M.S. in Department of Artificial Intelligence Convergence, College of Software, Sungkyunkwan University (SKKU)
+- M.S. in Department of Artificial Intelligence Convergence, College of Software, Sungkyunkwan University (SKKU)
 
 🔍Research Interests
 - Multimodal Learning
