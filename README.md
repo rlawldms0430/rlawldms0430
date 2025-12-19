@@ -1,9 +1,10 @@
 # JeeEun Kim
 
-🚦AI Researcher
-- M.S. in Department of Artificial Intelligence Convergence, College of Software, Sungkyunkwan University (SKKU)
+🚦**AI Researcher**  
+- M.S. in Artificial Intelligence Convergence, College of Software  
+  Sungkyunkwan University (SKKU)
 
-🔍Research Interests
+🔍 **Research Interests**
 - Multimodal Learning
 - Medical AI
 - AGI
@@ -18,7 +19,6 @@ Korea Health Industry Development Institute (KHIDI) | *Jan. 2024 – Dec. 2024*
 - Performed targeted lesion inpainting using Stable Diffusion with generated masks.  
 - Enhanced inpainting performance by fine-tuning with DreamBooth.  
 
----
 
 **Summer Student Intern**
 German Research Centre for Artificial Intelligence (DFKI) | *Jul. 2024 – Aug. 2024*  
@@ -26,16 +26,11 @@ German Research Centre for Artificial Intelligence (DFKI) | *Jul. 2024 – Aug. 
 - Focused on improving image quality via U-Net-based approaches and artifact reconstruction techniques.  
 
 
----
-
 **Electric Power Consumption Forecasting Project using WaveNet**
 Korea Technology & Information Promotion Agency for SMEs (TIPA) | *Oct. 2023 – Dec. 2023*  
 - Applied WaveNet to learn temporal dependencies and handle long receptive fields in time-series data.  
 - Analyzed power consumption data to determine optimal input/output sequence lengths and applied a sliding window approach.  
 - Enhanced multi-step forecasting by adding a fully connected layer and switching the loss from log-likelihood to MSE for regression.  
-
-
----
 
 
 **Improving Accuracy of Wisdom Tooth Panoramic Images**  
