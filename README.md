@@ -26,7 +26,7 @@ German Research Centre for Artificial Intelligence (DFKI) | *Jul. 2024 – Aug. 
 - Focused on improving image quality via U-Net-based approaches and artifact reconstruction techniques.  
 
 
-**Electric Power Consumption Forecasting Project using WaveNet**
+**Electric Power Consumption Forecasting Project using WaveNet**  
 Korea Technology & Information Promotion Agency for SMEs (TIPA) | *Oct. 2023 – Dec. 2023*  
 - Applied WaveNet to learn temporal dependencies and handle long receptive fields in time-series data.  
 - Analyzed power consumption data to determine optimal input/output sequence lengths and applied a sliding window approach.  
