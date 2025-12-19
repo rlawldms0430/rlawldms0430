@@ -12,7 +12,7 @@
 
 ### Projects & Experience
 
-**Development of Synthetic Data Generation Technology for Dental Imaging using Diffusion Models**  
+<span style="color:#3A4F7A"><strong>Development of Synthetic Data Generation Technology for Dental Imaging using Diffusion Models</strong></span>    
 Korea Health Industry Development Institute (KHIDI) | *Jan. 2024 – Dec. 2024*  
 - Improved oral cancer diagnostic performance using ResNet50 and YOLOv8.  
 - Applied Segment Anything (SAM) to preserve non-lesion areas during the inpainting process.  
